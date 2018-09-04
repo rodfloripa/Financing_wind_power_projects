@@ -2,7 +2,7 @@
 
 Liability of WindFarms in Brazil
 
-This project discusses the financial liability of windfarms,largerly
+This project analyses the financial liability of windfarms,largerly
 affected by Nacional Bank of Development's(BNDES) higher taxes for
 infrastructure projects funding.In the past, the renewables sector in Brazil
 was highly dependent on public banks funding,but now there is a need
