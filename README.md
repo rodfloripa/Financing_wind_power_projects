@@ -1,4 +1,4 @@
-# Wind-energy-project-analysis
+# Financing Wind Power Projects
 
 Liability of WindFarms in Brazil
 
