@@ -18,5 +18,5 @@ total investment(x R$1000),%hedge,%bndes funding,%debentures)
 Returns the Net Value in R$
 
 Example:
-fc.us(155,116,175000,20,80,0)
+fc.usina(155,116,175000,20,80,0)
 8420386
