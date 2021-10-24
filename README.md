@@ -1,4 +1,5 @@
 # Financing Wind Power Projects
+This is the final project from my specialization in finance
 
 Liability of WindFarms in Brazil
 
