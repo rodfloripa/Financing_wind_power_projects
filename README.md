@@ -14,10 +14,10 @@ other variables described in the code),in order to achieve
 the highest net value.
 
 Usage:
-fc.us(energy price R$/MWh,energy sold per year(x 1000 MWh),
+fc.usina(energy price R$/MWh,energy sold per year(x 1000 MWh),
 total investment(x R$1000),%hedge,%bndes funding,%debentures)
 Returns the Net Value in R$
 
 Example:
 fc.usina(155,116,175000,20,80,0)
-8420386 
+returns 8420386 
