@@ -22,4 +22,4 @@ Example:
 fc.usina(155,116,175000,20,80,0)
 returns 8420386 
 
-![Recompensa no tempo](https://github.com/rodfloripa/Financing_wind_power_projects/blob/main/netvalue.png?raw=true)
+![Recompensa no tempo](https://github.com/rodfloripa/Financing_wind_power_projects/blob/master/netvalue.png?raw=true)
