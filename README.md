@@ -2,7 +2,7 @@
 This is the final project from my specialization in finance
 
 Liability of WindFarms in Brazil
-
+<p align="justify">
 This project analyses the financial liability of windfarms,largerly
 affected by Nacional Bank of Development's(BNDES) higher taxes for
 infrastructure projects funding.In the past, the renewables sector in Brazil
@@ -12,7 +12,7 @@ the net value for the desired proportion of hedge,debentures and
 BNDES funding.The user can play with this three variables(and a set of
 other variables described in the code),in order to achieve
 the highest net value.
-
+</p>
 Usage:
 fc.usina(energy price R$/MWh,energy sold per year(x 1000 MWh),
 total investment(x R$1000),%hedge,%bndes funding,%debentures)
